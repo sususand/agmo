@@ -1,2 +1,3 @@
-npm install
-npm install -g eas-cli
+#npm install
+#npm install -g eas-cli
+#eas build --platform android
