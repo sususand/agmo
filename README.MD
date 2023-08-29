@@ -1,5 +1,8 @@
-#npm install
+npm install
 
-#npm install -g eas-cli
+#Run 
+expo start OR expo start --tunnel
 
-#eas build --platform android
+#Generate APP
+npm install -g eas-cli
+eas build --platform android
